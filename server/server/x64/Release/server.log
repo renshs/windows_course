@@ -1,0 +1,7 @@
+﻿  server.cpp
+C:\Users\yaros\winda\windows_course\server\server\server.cpp(138,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  server.vcxproj -> C:\Users\yaros\winda\windows_course\server\x64\Release\server.exe

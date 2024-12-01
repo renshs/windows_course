@@ -1,0 +1,7 @@
+﻿  client.cpp
+C:\Users\yaros\winda\windows_course\client\client\client.cpp(60,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  client.vcxproj -> C:\Users\yaros\winda\windows_course\client\x64\Release\client.exe

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yaros\\source\\repos\\server\\",
+  "WorkspaceRootPath": "C:\\Users\\yaros\\winda\\windows_course\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48130D71-BEE7-4E0E-A055-21142538906D}|server\\server.vcxproj|C:\\Users\\yaros\\source\\repos\\server\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{48130D71-BEE7-4E0E-A055-21142538906D}|server\\server.vcxproj|C:\\Users\\yaros\\winda\\windows_course\\server\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48130D71-BEE7-4E0E-A055-21142538906D}|server\\server.vcxproj|solutionrelative:server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "server.cpp",
-              "DocumentMoniker": "C:\\Users\\yaros\\source\\repos\\server\\server\\server.cpp",
+              "DocumentMoniker": "C:\\Users\\yaros\\winda\\windows_course\\server\\server\\server.cpp",
               "RelativeDocumentMoniker": "server\\server.cpp",
-              "ToolTip": "C:\\Users\\yaros\\source\\repos\\server\\server\\server.cpp",
+              "ToolTip": "C:\\Users\\yaros\\winda\\windows_course\\server\\server\\server.cpp",
               "RelativeToolTip": "server\\server.cpp",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAiwI4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-01T11:30:31.91Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
