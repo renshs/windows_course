@@ -1,4 +1,4 @@
-#define _WINSOCK_DEPRECATED_NO_WARNINGS
+﻿#define _WINSOCK_DEPRECATED_NO_WARNINGS
 
 #include <winsock2.h>
 #include <stdio.h>
@@ -7,6 +7,7 @@
 #pragma comment(lib, "ws2_32.lib") // Link Winsock library
 
 #define BUFFER_SIZE 1024
+
 
 int main(int argc, char* argv[]) {
     if (argc != 3) {
